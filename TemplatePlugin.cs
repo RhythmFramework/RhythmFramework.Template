@@ -5,6 +5,7 @@ using RhythmFramework;
 using RhythmFramework.Interfaces;
 using RhythmFramework.Options;
 using RhythmFramework.Options.Enum;
+using RhythmFramework.Options.Game;
 
 namespace TemplatePlugin;
 
